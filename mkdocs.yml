@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: 我的文档网站
+theme:
+  name: material  # 指定主题
+  language: zh    # 中文界面
+  palette:        # 自定义配色（可选）
+    primary: teal
+    accent: pink
+markdown_extensions:
+  - pymdownx.highlight  # 代码高亮
+  - pymdownx.superfences
+nav:
+  - 首页: index.md
+  - 教程:
+    - 快速入门: getting-started.md
+    - 高级功能: advanced.md
