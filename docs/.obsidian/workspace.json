@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "首页.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "首页"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "首页.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "首页"
             }
           }
         ],
@@ -182,22 +182,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfee47afb3425dca",
+  "active": "f7dd2e0dc27a2629",
   "lastOpenFiles": [
-    "408/大纲.md",
-    "408/操作系统",
-    "408/数据结构",
     "408/计网/大纲.md",
+    "首页.md",
     "未命名.md",
-    "408/计组",
-    "408/计网/未命名",
-    "408/计网",
-    "未命名",
-    "408.md",
-    "未命名 4",
-    "编程语言",
-    "数学",
-    "英语",
-    "index.md"
+    "mkdocs/stylesheets/unordered-list-symbols.css",
+    "mkdocs/stylesheets/no-footer.css",
+    "mkdocs/stylesheets/responsive.css",
+    "mkdocs/stylesheets/theme.css",
+    "mkdocs/stylesheets/overrides.css",
+    "mkdocs/stylesheets/navigation.css",
+    "mkdocs/stylesheets/extra.css",
+    "mkdocs/stylesheets/components.css",
+    "mkdocs/stylesheets/base.css",
+    "mkdocs/stylesheets",
+    "408/大纲.md",
+    "408.md"
   ]
 }
