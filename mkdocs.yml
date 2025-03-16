@@ -1,16 +1,17 @@
 site_name: 我的文档网站
-
 theme:
-  name: material  # 指定主题
-  language: zh    # 中文界面
-  palette:        # 自定义配色（可选）
+  name: material
+  language: zh
+  palette:
     primary: teal
     accent: pink
-
 markdown_extensions:
-  - pymdownx.highlight  # 代码高亮
-  - pymdownx.superfences
-
+- pymdownx.highlight
+- pymdownx.superfences
 nav:
-  - 首页: index.md
-  - 408: 未命名.md
+- index: index.md
+- 未命名: 未命名.md
+- '408':
+  - 大纲: 408\大纲.md
+- 计网:
+  - 大纲: 408\计网\大纲.md
